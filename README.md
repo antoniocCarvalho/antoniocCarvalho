@@ -25,7 +25,7 @@
 
   <div align="center">
  
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=antoniocCarvalho&show_icons=true&theme=dark)
+ <!--  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=antoniocCarvalho&show_icons=true&theme=dark) -->
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoniocCarvalho&layout=donut&theme=dark)](https://github.com/msc-santos/github-readme-stats)
  
   </div>
