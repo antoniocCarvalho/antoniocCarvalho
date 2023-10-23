@@ -26,16 +26,15 @@
   <div align="center">
  
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=antoniocCarvalho&show_icons=true&theme=dark)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoniocCarvalho&layout=donut&theme=dark)](https://github.com/msc-santos/github-readme-stats)
  
   </div>
   
-  ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=antoniocCarvalho&theme=gotham)  
   
   <div align="center">
  
   ![Snake animation](https://github.com/antoniocCarvalho/antoniocCarvalho/blob/main/github-contribution-grid-snake.svg)
 
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoniocCarvalho&layout=donut&theme=dark)](https://github.com/msc-santos/github-readme-stats)
 
    <div>
      <a href = "antoniocelsocarvalhoo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
